@@ -3,7 +3,7 @@
 This project focuses on detecting spam messages in SMS data using text classification techniques.  
 By leveraging Natural Language Processing (NLP) and machine learning algorithms, the model classifies incoming messages as **spam** or **ham** (legitimate), enabling better filtering and user protection.
 
----
+
 
 ## 🚀 Features
 
@@ -55,10 +55,10 @@ The dataset contains SMS messages labeled as either `spam` or `ham`.
 5. Evaluate performance metrics
 6. Save models and vectorizer
 
----
+
 
 ## 📌 Output Example
-```yaml
+
 Model Evaluation Results:
 | Model              | Accuracy | Precision | Recall   | F1 Score | ROC-AUC  |
 |--------------------|----------|-----------|----------|----------|----------|
